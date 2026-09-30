@@ -50,6 +50,7 @@ The dashboard reveals the following key takeaways:
 https://datastudio.google.com/reporting/cc160003-b7d1-4e9e-91c5-cd399691bea4
 
 <img width="1507" height="747" alt="Screenshot 2026-10-01 010542" src="https://github.com/user-attachments/assets/511fcd2a-cfbb-45a8-a26e-e7c9b219cee4" />
+<img width="1452" height="306" alt="Screenshot 2026-10-01 012609" src="https://github.com/user-attachments/assets/0f557160-acd0-4b63-826a-9a6fd2344d93" />
 
 ---
 
